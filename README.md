@@ -2,7 +2,7 @@
 
 
 ## What I'm focusing on 👩‍💻
-I am currently eveloping my data science skills.
+I am currently developing my data science skills.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=carmenloww&show_icons=true&theme=nord)
   <br><br>
