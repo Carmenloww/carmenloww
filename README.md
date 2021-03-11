@@ -18,8 +18,8 @@ I am currently eveloping my data science skills.
     <a href="https://carmenloww.github.io/portfolio" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
   <p align="center">
-    <a href="http://hits.dwyl.com/carmenloww/Carmenloww/Carmenloww">
-      <img align="center" src="http://hits.dwyl.com/carmenloww/Carmenloww.svg">
+    <a href="http://hits.dwyl.com/carmenloww/Carmenloww/carmenloww">
+      <img align="center" src="http://hits.dwyl.com/Carmenloww/carmenloww.svg">
     </a>
   </p>
 
