@@ -4,10 +4,25 @@
 ## What I'm focusing on 👩‍💻
 I am currently eveloping my data science skills.
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=carmenloww&show_icons=true&theme=nord)
+  <br><br>
+</details>
 
-## Connect with me: 
+<hr>
+<p align="center">
+  <i>Let's connect and chat! </i>
+ 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/carmenloww/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:carmenloww@gmail.com alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://carmenloww.github.io/portfolio" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+  <p align="center">
+    <a href="http://hits.dwyl.com/carmenloww/Carmenloww/Carmenloww">
+      <img align="center" src="http://hits.dwyl.com/carmenloww/Carmenloww.svg">
+    </a>
+  </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/carmenloww/)
 
 <!--
 **Carmenloww/carmenloww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
